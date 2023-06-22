@@ -111,7 +111,7 @@ main button:hover {
   .dropdown:hover .content{
     display:block;
     background: #3D4450; 
-    z-index: 1;
+    z-index: 2;
   }
   
   
